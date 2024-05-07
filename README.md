@@ -1,16 +1,17 @@
-### Hi there 👋
+### Boas vindas aos meu perfil ⭐
 
-<!--
-**vanessacristinas/vanessacristinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Vanessa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Sou professor da turma do 2Ano do ensino médio do itenerário de tecnologia.
+
+-Estou acompanhando meus alunos no desenvolvimento da linguagem JAvaScript
+
+-Utilizo esse espaço para minha ornaganização e monitoramento dos projetos desenvolvidos pela classe
+. 
+
+### Você pode entrar em contato comigo através do 📫
+
+cristinavanessa@prof.educacao.sp.gov.br
+
+![](https://media.tenor.com/okAoWHDgdkoAAAAi/thank-u-appreciated.gif)
