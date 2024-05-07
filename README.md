@@ -5,7 +5,7 @@ Meu nome é Vanessa
 
 -Sou professor da turma do 2Ano do ensino médio do itenerário de tecnologia.
 
--Estou acompanhando meus alunos no desenvolvimento da linguagem JAvaScript
+-Estou acompanhando meus alunos no desenvolvimento da linguagem JavaScript, e na conclusão do curso Alura.
 
 -Utilizo esse espaço para minha ornaganização e monitoramento dos projetos desenvolvidos pela classe
 . 
@@ -14,4 +14,4 @@ Meu nome é Vanessa
 
 cristinavanessa@prof.educacao.sp.gov.br
 
-![](https://media.tenor.com/okAoWHDgdkoAAAAi/thank-u-appreciated.gif)
+![](https://media1.tenor.com/m/upDimdkoHOgAAAAd/avengers-avengers-assemble.gif)
